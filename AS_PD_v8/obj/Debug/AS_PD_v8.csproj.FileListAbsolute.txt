@@ -1,0 +1,10 @@
+C:\Users\as2475\Desktop\PD\AS_PD_v8\AS_PD_v8\bin\Debug\AS_PD_v8.exe.config
+C:\Users\as2475\Desktop\PD\AS_PD_v8\AS_PD_v8\bin\Debug\AS_PD_v8.exe
+C:\Users\as2475\Desktop\PD\AS_PD_v8\AS_PD_v8\bin\Debug\AS_PD_v8.pdb
+C:\Users\as2475\Desktop\PD\AS_PD_v8\AS_PD_v8\obj\Debug\AS_PD_v8.csprojAssemblyReference.cache
+C:\Users\as2475\Desktop\PD\AS_PD_v8\AS_PD_v8\obj\Debug\AS_PD_v8.Form1.resources
+C:\Users\as2475\Desktop\PD\AS_PD_v8\AS_PD_v8\obj\Debug\AS_PD_v8.Properties.Resources.resources
+C:\Users\as2475\Desktop\PD\AS_PD_v8\AS_PD_v8\obj\Debug\AS_PD_v8.csproj.GenerateResource.cache
+C:\Users\as2475\Desktop\PD\AS_PD_v8\AS_PD_v8\obj\Debug\AS_PD_v8.csproj.CoreCompileInputs.cache
+C:\Users\as2475\Desktop\PD\AS_PD_v8\AS_PD_v8\obj\Debug\AS_PD_v8.exe
+C:\Users\as2475\Desktop\PD\AS_PD_v8\AS_PD_v8\obj\Debug\AS_PD_v8.pdb
